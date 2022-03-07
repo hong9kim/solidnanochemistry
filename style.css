@@ -481,3 +481,8 @@ h1{
 .share-bar .thread-share-bar-buttons{
 	display: none;
 }
+
+.auth-disqus button{
+	width: 0px;
+	height: 0px;
+}
