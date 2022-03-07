@@ -79,6 +79,7 @@ header .head .top-banner {
 }
 
 header nav {
+
 	width: 1fr;
 	height: 40px;
 	margin: 0 auto;
@@ -447,8 +448,11 @@ h3{
 }
 
 h3:hover{
-	 box-shadow: 0 0 2px 2px #e2e2e2;
+	 /*box-shadow: 0 0 2px 2px #e2e2e2;*/
+	 text-decoration: underline;
+
 }
+
 
 h1{
 	margin: 10px;
@@ -463,5 +467,5 @@ h1{
 }
 
 .paper:hover{
-	box-shadow: 0 0 2px 2px #e2e2e2;
+	text-decoration: underline;
 }
