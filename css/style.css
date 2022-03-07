@@ -469,3 +469,7 @@ h1{
 .paper:hover{
 	text-decoration: underline;
 }
+
+#disqus_thread{
+	width: 75%;
+}
