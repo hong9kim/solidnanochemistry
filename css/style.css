@@ -446,10 +446,18 @@ h3{
 	margin: 0;
 }
 
+h3:hover{
+	 box-shadow: 0 0 2px 2px #e2e2e2;
+}
+
 h1{
 	margin: 10px;
 }
 
 .Upcoming:hover{
-		 box-shadow: 0 0 2px 2px #e2e2e2;
+	box-shadow: 0 0 2px 2px #e2e2e2;
+}
+
+.col_right:hover{
+	 box-shadow: 0 0 2px 2px #e2e2e2;
 }
