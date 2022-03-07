@@ -334,6 +334,7 @@ img.thumb_medium {
 img.thumb_medium:hover {
     box-shadow: 0 0 2px 2px #e2e2e2;
 
+
 }
 
 .news{
@@ -342,8 +343,12 @@ img.thumb_medium:hover {
 	margin: 20px;
 	width: 230px;
 	height: 180px;
-	box-shadow: 0 0 2px 2px #e2e2e2;
 
+
+}
+
+.news:hover{
+	 box-shadow: 0 0 2px 2px #e2e2e2;
 }
 
 .news2{
@@ -353,8 +358,12 @@ img.thumb_medium:hover {
 		margin: 20px;
 		width: 630px;
 		height: 234px;
-		box-shadow: 0 0 2px 2px #e2e2e2;
 
+
+}
+
+.news2:hover{
+	 box-shadow: 0 0 2px 2px #e2e2e2;
 }
 
 
@@ -407,10 +416,12 @@ footer a {
 
 .Reasearchindex{
 	display: flex;
+
 }
 
 .figure{
-	margin: 20px;
+
+
 }
 
 .paper{
@@ -419,8 +430,13 @@ footer a {
 }
 
 section.content{
-	padding: 10px;
+	padding: 20px;
 }
+
+section{
+	padding: 20px;
+}
+
 
 .photos{
 	vertical-align: inherit;
@@ -432,4 +448,8 @@ h3{
 
 h1{
 	margin: 10px;
+}
+
+.Upcoming:hover{
+		 box-shadow: 0 0 2px 2px #e2e2e2;
 }
