@@ -459,5 +459,9 @@ h1{
 }
 
 .col_right:hover{
-	 box-shadow: 0 0 2px 2px #e2e2e2;
+	box-shadow: 0 0 2px 2px #e2e2e2;
+}
+
+.paper:hover{
+	box-shadow: 0 0 2px 2px #e2e2e2;	
 }
