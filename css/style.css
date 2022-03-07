@@ -346,6 +346,17 @@ img.thumb_medium:hover {
 
 }
 
+.news2{
+
+		border: 1px solid #dbdbdb;
+		padding: 5px;
+		margin: 20px;
+		width: 630px;
+		height: 234px;
+		box-shadow: 0 0 2px 2px #e2e2e2;
+
+}
+
 
 
 
