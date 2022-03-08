@@ -1,4 +1,15 @@
 
+
+html{
+	padding: 20px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 3%;
+	margin-right: 3%;
+	border: Solid 1px #f0f0f0;
+}
+
+
 * {
 	box-sizing: border-box;
 /*	font-size: 14px;
@@ -24,7 +35,6 @@ body {
 	background: #fff;
 	font-family: Helvetica;
 	color: #4e4e4e;
-	margin-right: 0px;
 }
 
 
@@ -472,4 +482,21 @@ h1{
 
 #disqus_thread{
 	width: 75%;
+}
+
+.clipprivacy-policy-fullhidden-md{
+	display: none;
+}
+
+.share-bar .thread-share-bar-buttons{
+	display: none;
+}
+
+.auth-disqus button{
+	width: 0px;
+	height: 0px;
+}
+
+.auth-disqus{
+
 }
