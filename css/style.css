@@ -333,16 +333,25 @@ img.thumb_medium {
     border: 1px solid #dbdbdb;
     padding: 5px;
     width: 230px;
-		height: 170px;
+		height: 200px;
 }
-
-
 
 img.thumb_medium:hover {
     box-shadow: 0 0 2px 2px #e2e2e2;
-
-
 }
+
+img.thumb_medium02 {
+    border: 1px solid #dbdbdb;
+    padding: 5px;
+    width: 300px;
+		height: 400px;
+}
+img.thumb_medium02:hover {
+    box-shadow: 0 0 2px 2px #e2e2e2;
+}
+
+
+
 
 .news{
 	border: 1px solid #dbdbdb;
