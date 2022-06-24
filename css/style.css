@@ -346,7 +346,20 @@ img.thumb_medium02 {
     width: 300px;
 		height: 400px;
 }
+
+img.thumb_medium03 {
+    border: 1px solid #dbdbdb;
+    padding: 5px;
+    width: 180px;
+		height: 240px;
+}
+
+
 img.thumb_medium02:hover {
+    box-shadow: 0 0 2px 2px #e2e2e2;
+}
+
+img.thumb_medium03:hover {
     box-shadow: 0 0 2px 2px #e2e2e2;
 }
 
